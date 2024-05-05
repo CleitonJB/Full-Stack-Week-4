@@ -61,7 +61,7 @@ const ProductDetails = ({
         <span className="text-xs text-muted-foreground">{product.name}</span>
       </div>
 
-      <h1 className="mb-2 mt-1 text-xl font-semibold">{product.name}</h1>
+      <h1 className="mb-2 mt-1 px-5 text-xl font-semibold">{product.name}</h1>
 
       <div className="flex justify-between px-5">
         <div>
